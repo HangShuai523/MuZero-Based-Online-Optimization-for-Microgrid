@@ -1,1 +1,1 @@
-# BrainInspiredAI-Learning
+# MuZero-Microgrid
